@@ -1,0 +1,20 @@
+{
+  "name": "pokereum-router",
+  "version": "1.0.0",
+  "description": "Telehash router for Pokereum",
+  "main": "router.js",
+  "scripts": {
+    "start": "node router.js"
+  },
+  "author": "SuperDao",
+  "license": "ISC",
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.8.7"
+  },
+  "dependencies": {
+    "optimist": "0.6.1",
+    "path-extra": "3.0.0",
+    "telehash": "0.4.18"
+  }
+}
